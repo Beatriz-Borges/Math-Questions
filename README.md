@@ -1,3 +1,15 @@
+Essa é uma aplicação básica de Flutter que visa avaliar o nível de matemática de alguém. Está na fase inicial e será implementada posteriormente. Contém seis perguntas básicas de matemática.
+
+
+-------------------------------------------------------------------------------------------------------------
+
+
+This is a basic Flutter application that aims to assess someone's math level. It is in the initial phase and will be implemented later. Contains six basic math questions.
+
+
+-------------------------------------------------------------------------------------------------------------
+
+
 # matematica_app
 
 A new Flutter project.
